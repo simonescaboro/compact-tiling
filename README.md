@@ -1,5 +1,4 @@
 # Compact Tiling problem
-### Simone Scaboro - 143191
 
 ---
 ### Requirements
