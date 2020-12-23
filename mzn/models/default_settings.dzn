@@ -1,0 +1,27 @@
+% quadruple che identificano ogni subtile
+	          %1	   %2        %3        %4
+points = [| 0,0,1,2 | 1,0,1,2 | 0,0,1,3 | 0,0,3,1  
+              %5        %6        %7        %8     
+          | 1,0,1,1 | 0,1,2,1 | 0,0,1,1 | 0,2,3,1  
+              %9        %10       %11       %12
+          | 1,1,1,2 | 1,1,2,1 | 2,0,1,3 | 0,0,2,2 |];
+
+total_subtiles = 12;
+
+% insiemi che identificano ogni possibile rotazione
+% di ogni possibile tile
+rotation_tiles = [
+    {12},                             %O rotations
+    {3}, {4},                         %I rotations
+    {1,5}, {6,5}, {6,7}, {7,2},       %L rotations
+    {2,8}, {4,9}, {3,10}, {6,11}      %T rotations
+];
+
+% ogni insieme rappresenta un tile
+% e ogni componente una specifica rotazione
+tiles_generic = [
+     {1},           %O
+     {2,3},         %I
+     {4,5,6,7},     %L
+     {8,9,10,11},   %T
+];

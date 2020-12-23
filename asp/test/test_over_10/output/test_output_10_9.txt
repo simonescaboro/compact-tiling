@@ -1,0 +1,29 @@
+clingo version 5.4.0
+Reading from test/test1/input/test_10_8.lp ...
+Solving...
+Answer: 1
+pieces_on(1,1,4,4) pieces_on(1,1,5,4) pieces_on(1,1,4,5) pieces_on(1,1,5,5) pieces_on(1,2,4,1) pieces_on(1,2,5,1) pieces_on(1,2,4,2) pieces_on(1,2,5,2) pieces_on(2,1,1,5) pieces_on(2,1,2,5) pieces_on(2,1,3,5) pieces_on(2,2,1,4) pieces_on(2,2,2,4) pieces_on(2,2,3,4) pieces_on(3,1,1,1) pieces_on(3,1,1,2) pieces_on(3,1,2,2) pieces_on(4,1,3,1) pieces_on(4,1,3,2) pieces_on(4,1,2,3) pieces_on(4,1,3,3) pieces_on(4,1,4,3) max_row(5) max_col(5)
+Optimization: 0 25
+Progression : 0 [ 6;25] (Error: 3.16667)
+Answer: 2
+pieces_on(1,1,1,1) pieces_on(1,1,2,1) pieces_on(1,1,1,2) pieces_on(1,1,2,2) pieces_on(1,2,1,6) pieces_on(1,2,2,6) pieces_on(1,2,1,7) pieces_on(1,2,2,7) pieces_on(2,1,3,5) pieces_on(2,1,3,6) pieces_on(2,1,3,7) pieces_on(2,2,1,8) pieces_on(2,2,2,8) pieces_on(2,2,3,8) pieces_on(3,1,1,4) pieces_on(3,1,1,5) pieces_on(3,1,2,5) pieces_on(4,1,3,2) pieces_on(4,1,1,3) pieces_on(4,1,2,3) pieces_on(4,1,3,3) pieces_on(4,1,3,4) max_row(3) max_col(8)
+Optimization: 0 24
+Progression : 0 [ 8;24] (Error: 2)
+Progression : 0 [ 9;24] (Error: 1.66667)
+Progression : 0 [10;24] (Error: 1.4)
+Progression : 0 [12;24] (Error: 1)
+Progression : 0 [14;24] (Error: 0.714286)
+Progression : 0 [15;24] (Error: 0.6)
+Progression : 0 [16;24] (Error: 0.5)
+Progression : 0 [18;24] (Error: 0.333333)
+Progression : 0 [20;24] (Error: 0.2)
+Progression : 0 [21;24] (Error: 0.142857)
+OPTIMUM FOUND
+
+Models       : 2
+  Optimum    : yes
+Optimization : 0 24
+Calls        : 1
+Time         : 0.262s (Solving: 0.24s 1st Model: 0.00s Unsat: 0.23s)
+CPU Time     : 0.939s
+Threads      : 4        (Winner: 0)

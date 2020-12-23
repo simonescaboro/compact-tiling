@@ -1,0 +1,82 @@
+clingo version 5.4.0
+Reading from test/test2/input/test_22_5.lp ...
+Solving...
+Answer: 1
+pieces_on(1,1,4,12) pieces_on(1,1,5,12) pieces_on(1,1,4,13) pieces_on(1,1,5,13) pieces_on(1,2,16,1) pieces_on(1,2,1,16) pieces_on(1,2,11,22) pieces_on(1,2,12,22) pieces_on(2,1,5,1) pieces_on(2,1,5,2) pieces_on(2,1,5,3) pieces_on(3,1,1,22) pieces_on(3,1,14,22) pieces_on(3,1,15,22) pieces_on(4,1,1,4) pieces_on(4,1,1,5) pieces_on(4,1,2,5) pieces_on(4,1,3,5) pieces_on(4,1,1,6) pieces_on(4,2,12,1) pieces_on(4,2,10,2) pieces_on(4,2,11,2) pieces_on(4,2,12,2) pieces_on(4,2,12,3) pieces_on(4,3,14,1) pieces_on(4,3,14,2) pieces_on(4,3,15,2) pieces_on(4,3,16,2) pieces_on(4,3,14,3) pieces_on(4,4,1,1) pieces_on(4,4,2,1) pieces_on(4,4,1,2) pieces_on(4,4,2,3) pieces_on(4,4,20,22) max_row(20) max_col(22)
+Optimization: 0 440
+Answer: 2
+pieces_on(1,1,1,5) pieces_on(1,1,11,21) pieces_on(1,1,10,22) pieces_on(1,1,11,22) pieces_on(1,2,1,1) pieces_on(1,2,15,4) pieces_on(1,2,12,22) pieces_on(1,2,13,22) pieces_on(2,1,9,6) pieces_on(2,1,9,7) pieces_on(2,1,9,8) pieces_on(3,1,4,1) pieces_on(3,1,14,22) pieces_on(3,1,15,22) pieces_on(4,1,7,1) pieces_on(4,1,5,2) pieces_on(4,1,6,2) pieces_on(4,1,7,2) pieces_on(4,1,7,3) pieces_on(4,2,13,1) pieces_on(4,2,13,2) pieces_on(4,2,12,3) pieces_on(4,2,13,3) pieces_on(4,2,14,3) pieces_on(4,3,10,1) pieces_on(4,3,11,1) pieces_on(4,3,12,1) pieces_on(4,3,11,2) pieces_on(4,3,11,3) pieces_on(4,4,8,14) pieces_on(4,4,9,14) pieces_on(4,4,10,14) pieces_on(4,4,9,15) pieces_on(4,4,9,16) max_row(15) max_col(22)
+Optimization: 0 330
+Answer: 3
+pieces_on(1,1,1,5) pieces_on(1,1,11,21) pieces_on(1,1,10,22) pieces_on(1,1,11,22) pieces_on(1,2,1,1) pieces_on(1,2,14,4) pieces_on(1,2,12,22) pieces_on(1,2,13,22) pieces_on(2,1,9,6) pieces_on(2,1,9,7) pieces_on(2,1,9,8) pieces_on(3,1,4,1) pieces_on(3,1,3,22) pieces_on(3,1,14,22) pieces_on(4,1,7,1) pieces_on(4,1,5,2) pieces_on(4,1,6,2) pieces_on(4,1,7,2) pieces_on(4,1,7,3) pieces_on(4,2,13,1) pieces_on(4,2,13,2) pieces_on(4,2,12,3) pieces_on(4,2,13,3) pieces_on(4,2,14,3) pieces_on(4,3,10,1) pieces_on(4,3,11,1) pieces_on(4,3,12,1) pieces_on(4,3,11,2) pieces_on(4,3,11,3) pieces_on(4,4,8,14) pieces_on(4,4,9,14) pieces_on(4,4,10,14) pieces_on(4,4,9,15) pieces_on(4,4,9,16) max_row(14) max_col(22)
+Optimization: 0 308
+Answer: 4
+pieces_on(1,1,1,5) pieces_on(1,1,11,21) pieces_on(1,1,10,22) pieces_on(1,1,11,22) pieces_on(1,2,1,1) pieces_on(1,2,4,4) pieces_on(1,2,12,22) pieces_on(1,2,13,22) pieces_on(2,1,9,6) pieces_on(2,1,9,7) pieces_on(2,1,9,8) pieces_on(3,1,4,1) pieces_on(3,1,1,14) pieces_on(3,1,3,22) pieces_on(4,1,7,1) pieces_on(4,1,5,2) pieces_on(4,1,6,2) pieces_on(4,1,7,2) pieces_on(4,1,7,3) pieces_on(4,2,13,1) pieces_on(4,2,13,2) pieces_on(4,2,12,3) pieces_on(4,2,13,3) pieces_on(4,2,9,22) pieces_on(4,3,10,1) pieces_on(4,3,11,1) pieces_on(4,3,12,1) pieces_on(4,3,11,2) pieces_on(4,3,11,3) pieces_on(4,4,8,14) pieces_on(4,4,9,14) pieces_on(4,4,10,14) pieces_on(4,4,9,15) pieces_on(4,4,9,16) max_row(13) max_col(22)
+Optimization: 0 286
+Answer: 5
+pieces_on(1,1,1,5) pieces_on(1,1,11,21) pieces_on(1,1,10,22) pieces_on(1,1,11,22) pieces_on(1,2,1,1) pieces_on(1,2,5,22) pieces_on(1,2,6,22) pieces_on(1,2,12,22) pieces_on(2,1,9,6) pieces_on(2,1,9,7) pieces_on(2,1,9,8) pieces_on(3,1,4,1) pieces_on(3,1,1,4) pieces_on(3,1,3,22) pieces_on(4,1,7,1) pieces_on(4,1,5,2) pieces_on(4,1,6,2) pieces_on(4,1,7,2) pieces_on(4,1,7,3) pieces_on(4,2,8,1) pieces_on(4,2,1,2) pieces_on(4,2,12,3) pieces_on(4,2,1,7) pieces_on(4,2,9,22) pieces_on(4,3,10,1) pieces_on(4,3,11,1) pieces_on(4,3,12,1) pieces_on(4,3,11,2) pieces_on(4,3,11,3) pieces_on(4,4,8,14) pieces_on(4,4,9,14) pieces_on(4,4,10,14) pieces_on(4,4,9,15) pieces_on(4,4,9,16) max_row(12) max_col(22)
+Optimization: 0 264
+Answer: 6
+pieces_on(1,1,2,10) pieces_on(1,1,3,10) pieces_on(1,1,2,11) pieces_on(1,1,3,11) pieces_on(1,2,4,5) pieces_on(1,2,5,5) pieces_on(1,2,4,6) pieces_on(1,2,5,6) pieces_on(2,1,8,7) pieces_on(2,1,9,7) pieces_on(2,1,10,7) pieces_on(3,1,19,11) pieces_on(3,1,18,12) pieces_on(3,1,19,12) pieces_on(4,1,9,1) pieces_on(4,1,9,2) pieces_on(4,1,10,2) pieces_on(4,1,11,2) pieces_on(4,1,9,3) pieces_on(4,2,12,1) pieces_on(4,2,12,2) pieces_on(4,2,13,2) pieces_on(4,2,14,2) pieces_on(4,2,12,3) pieces_on(4,3,1,1) pieces_on(4,3,2,1) pieces_on(4,3,3,1) pieces_on(4,3,2,2) pieces_on(4,3,2,3) pieces_on(4,4,21,7) pieces_on(4,4,19,8) pieces_on(4,4,20,8) pieces_on(4,4,21,8) pieces_on(4,4,21,9) max_row(21) max_col(12)
+Optimization: 0 252
+Answer: 7
+pieces_on(1,1,5,17) pieces_on(1,1,6,17) pieces_on(1,1,5,18) pieces_on(1,1,6,18) pieces_on(1,2,8,21) pieces_on(1,2,9,21) pieces_on(1,2,8,22) pieces_on(1,2,9,22) pieces_on(2,1,8,7) pieces_on(2,1,9,7) pieces_on(2,1,10,7) pieces_on(3,1,2,1) pieces_on(3,1,1,2) pieces_on(3,1,2,2) pieces_on(4,1,9,1) pieces_on(4,1,9,2) pieces_on(4,1,10,2) pieces_on(4,1,11,2) pieces_on(4,1,9,3) pieces_on(4,2,1,1) pieces_on(4,2,4,15) pieces_on(4,2,4,16) pieces_on(4,2,4,17) pieces_on(4,2,11,22) pieces_on(4,3,8,10) pieces_on(4,3,8,11) pieces_on(4,3,9,11) pieces_on(4,3,10,11) pieces_on(4,3,8,12) pieces_on(4,4,8,14) pieces_on(4,4,8,15) pieces_on(4,4,9,15) pieces_on(4,4,10,15) pieces_on(4,4,8,16) max_row(11) max_col(22)
+Optimization: 0 242
+Progression : 0 [  8;242] (Error: 29.25)
+Answer: 8
+pieces_on(1,1,8,15) pieces_on(1,1,9,15) pieces_on(1,1,8,16) pieces_on(1,1,9,16) pieces_on(1,2,5,21) pieces_on(1,2,6,21) pieces_on(1,2,5,22) pieces_on(1,2,6,22) pieces_on(2,1,3,19) pieces_on(2,1,4,19) pieces_on(2,1,5,19) pieces_on(3,1,1,1) pieces_on(3,1,4,2) pieces_on(3,1,10,22) pieces_on(4,1,6,1) pieces_on(4,1,6,2) pieces_on(4,1,5,3) pieces_on(4,1,6,3) pieces_on(4,1,7,3) pieces_on(4,2,4,10) pieces_on(4,2,4,11) pieces_on(4,2,4,20) pieces_on(4,2,4,22) pieces_on(4,2,7,22) pieces_on(4,3,8,19) pieces_on(4,3,9,19) pieces_on(4,3,10,19) pieces_on(4,3,9,20) pieces_on(4,3,9,21) pieces_on(4,4,5,18) pieces_on(4,4,6,18) pieces_on(4,4,7,18) pieces_on(4,4,6,19) pieces_on(4,4,6,20) max_row(10) max_col(22)
+Optimization: 0 220
+Answer: 9
+pieces_on(1,1,5,17) pieces_on(1,1,6,17) pieces_on(1,1,5,18) pieces_on(1,1,6,18) pieces_on(1,2,5,21) pieces_on(1,2,6,21) pieces_on(1,2,5,22) pieces_on(1,2,6,22) pieces_on(2,1,3,19) pieces_on(2,1,4,19) pieces_on(2,1,5,19) pieces_on(3,1,8,21) pieces_on(3,1,7,22) pieces_on(3,1,8,22) pieces_on(4,1,6,1) pieces_on(4,1,6,2) pieces_on(4,1,5,3) pieces_on(4,1,6,3) pieces_on(4,1,7,3) pieces_on(4,2,4,10) pieces_on(4,2,4,11) pieces_on(4,2,4,14) pieces_on(4,2,4,20) pieces_on(4,2,4,22) pieces_on(4,3,1,1) pieces_on(4,3,4,16) pieces_on(4,3,1,22) pieces_on(4,3,2,22) pieces_on(4,3,3,22) pieces_on(4,4,6,15) pieces_on(4,4,7,15) pieces_on(4,4,8,15) pieces_on(4,4,7,16) pieces_on(4,4,7,17) max_row(8) max_col(22)
+Optimization: 0 176
+Answer: 10
+pieces_on(1,1,3,2) pieces_on(1,1,4,2) pieces_on(1,1,3,3) pieces_on(1,1,4,3) pieces_on(1,2,9,1) pieces_on(1,2,10,1) pieces_on(1,2,9,2) pieces_on(1,2,10,2) pieces_on(2,1,4,1) pieces_on(2,1,5,1) pieces_on(2,1,6,1) pieces_on(3,1,22,1) pieces_on(3,1,21,2) pieces_on(3,1,22,2) pieces_on(4,1,7,1) pieces_on(4,1,5,2) pieces_on(4,1,6,2) pieces_on(4,1,7,2) pieces_on(4,1,7,3) pieces_on(4,2,13,1) pieces_on(4,2,13,2) pieces_on(4,2,12,3) pieces_on(4,2,13,3) pieces_on(4,2,14,3) pieces_on(4,3,19,1) pieces_on(4,3,20,1) pieces_on(4,3,21,1) pieces_on(4,3,20,2) pieces_on(4,3,20,3) pieces_on(4,4,1,1) pieces_on(4,4,11,1) pieces_on(4,4,14,1) pieces_on(4,4,10,3) pieces_on(4,4,22,3) max_row(22) max_col(3)
+Optimization: 0 66
+Answer: 11
+pieces_on(1,1,3,2) pieces_on(1,1,4,2) pieces_on(1,1,3,3) pieces_on(1,1,4,3) pieces_on(1,2,1,4) pieces_on(1,2,2,4) pieces_on(1,2,1,5) pieces_on(1,2,2,5) pieces_on(2,1,9,3) pieces_on(2,1,9,4) pieces_on(2,1,9,5) pieces_on(3,1,13,2) pieces_on(3,1,12,3) pieces_on(3,1,13,3) pieces_on(4,1,10,3) pieces_on(4,1,10,4) pieces_on(4,1,11,4) pieces_on(4,1,12,4) pieces_on(4,1,10,5) pieces_on(4,2,5,1) pieces_on(4,2,5,2) pieces_on(4,2,6,2) pieces_on(4,2,7,2) pieces_on(4,2,5,3) pieces_on(4,3,1,1) pieces_on(4,3,2,1) pieces_on(4,3,3,1) pieces_on(4,3,2,2) pieces_on(4,3,2,3) pieces_on(4,4,11,1) pieces_on(4,4,9,2) pieces_on(4,4,10,2) pieces_on(4,4,11,2) pieces_on(4,4,11,3) max_row(13) max_col(5)
+Optimization: 0 65
+Answer: 12
+pieces_on(1,1,1,4) pieces_on(1,1,2,4) pieces_on(1,1,1,5) pieces_on(1,1,2,5) pieces_on(1,2,1,1) pieces_on(1,2,2,1) pieces_on(1,2,1,2) pieces_on(1,2,2,2) pieces_on(2,1,7,3) pieces_on(2,1,7,4) pieces_on(2,1,7,5) pieces_on(3,1,9,4) pieces_on(3,1,8,5) pieces_on(3,1,9,5) pieces_on(4,1,5,1) pieces_on(4,1,6,1) pieces_on(4,1,7,1) pieces_on(4,1,6,2) pieces_on(4,1,6,3) pieces_on(4,2,5,2) pieces_on(4,2,5,3) pieces_on(4,2,4,4) pieces_on(4,2,5,4) pieces_on(4,2,6,4) pieces_on(4,3,7,2) pieces_on(4,3,8,2) pieces_on(4,3,9,2) pieces_on(4,3,8,3) pieces_on(4,3,8,4) pieces_on(4,4,2,3) pieces_on(4,4,3,3) pieces_on(4,4,4,3) pieces_on(4,4,3,4) pieces_on(4,4,3,5) max_row(9) max_col(5)
+Optimization: 0 45
+Answer: 13
+pieces_on(1,1,3,2) pieces_on(1,1,4,2) pieces_on(1,1,3,3) pieces_on(1,1,4,3) pieces_on(1,2,7,1) pieces_on(1,2,8,1) pieces_on(1,2,7,2) pieces_on(1,2,8,2) pieces_on(2,1,6,3) pieces_on(2,1,7,3) pieces_on(2,1,8,3) pieces_on(3,1,12,1) pieces_on(3,1,11,2) pieces_on(3,1,12,2) pieces_on(4,1,10,1) pieces_on(4,1,10,2) pieces_on(4,1,9,3) pieces_on(4,1,10,3) pieces_on(4,1,11,3) pieces_on(4,2,4,1) pieces_on(4,2,5,1) pieces_on(4,2,6,1) pieces_on(4,2,5,2) pieces_on(4,2,5,3) pieces_on(4,3,1,1) pieces_on(4,3,2,1) pieces_on(4,3,3,1) pieces_on(4,3,2,2) pieces_on(4,3,2,3) pieces_on(4,4,13,1) pieces_on(4,4,13,2) pieces_on(4,4,12,3) pieces_on(4,4,13,3) pieces_on(4,4,14,3) max_row(14) max_col(3)
+Optimization: 0 42
+Answer: 14
+pieces_on(1,1,1,1) pieces_on(1,1,2,1) pieces_on(1,1,1,2) pieces_on(1,1,2,2) pieces_on(1,2,4,4) pieces_on(1,2,5,4) pieces_on(1,2,4,5) pieces_on(1,2,5,5) pieces_on(2,1,3,8) pieces_on(2,1,4,8) pieces_on(2,1,5,8) pieces_on(3,1,5,6) pieces_on(3,1,4,7) pieces_on(3,1,5,7) pieces_on(4,1,3,4) pieces_on(4,1,3,5) pieces_on(4,1,2,6) pieces_on(4,1,3,6) pieces_on(4,1,4,6) pieces_on(4,2,1,6) pieces_on(4,2,1,7) pieces_on(4,2,2,7) pieces_on(4,2,3,7) pieces_on(4,2,1,8) pieces_on(4,3,1,3) pieces_on(4,3,2,3) pieces_on(4,3,3,3) pieces_on(4,3,2,4) pieces_on(4,3,2,5) pieces_on(4,4,5,1) pieces_on(4,4,3,2) pieces_on(4,4,4,2) pieces_on(4,4,5,2) pieces_on(4,4,5,3) max_row(5) max_col(8)
+Optimization: 0 40
+Answer: 15
+pieces_on(1,1,5,2) pieces_on(1,1,6,2) pieces_on(1,1,5,3) pieces_on(1,1,6,3) pieces_on(1,2,8,2) pieces_on(1,2,9,2) pieces_on(1,2,8,3) pieces_on(1,2,9,3) pieces_on(2,1,13,1) pieces_on(2,1,13,2) pieces_on(2,1,13,3) pieces_on(3,1,9,1) pieces_on(3,1,10,1) pieces_on(3,1,10,2) pieces_on(4,1,1,1) pieces_on(4,1,1,2) pieces_on(4,1,2,2) pieces_on(4,1,3,2) pieces_on(4,1,1,3) pieces_on(4,2,11,1) pieces_on(4,2,11,2) pieces_on(4,2,10,3) pieces_on(4,2,11,3) pieces_on(4,2,12,3) pieces_on(4,3,6,1) pieces_on(4,3,7,1) pieces_on(4,3,8,1) pieces_on(4,3,7,2) pieces_on(4,3,7,3) pieces_on(4,4,3,1) pieces_on(4,4,4,1) pieces_on(4,4,5,1) pieces_on(4,4,4,2) pieces_on(4,4,4,3) max_row(13) max_col(3)
+Optimization: 0 39
+Progression : 0 [10;39] (Error: 2.9)
+Progression : 0 [12;39] (Error: 2.25)
+Progression : 0 [14;39] (Error: 1.78571)
+Progression : 0 [15;39] (Error: 1.6)
+Progression : 0 [16;39] (Error: 1.4375)
+Progression : 0 [18;39] (Error: 1.16667)
+Progression : 0 [20;39] (Error: 0.95)
+Progression : 0 [21;39] (Error: 0.857143)
+Progression : 0 [22;39] (Error: 0.772727)
+Progression : 0 [24;39] (Error: 0.625)
+Answer: 16
+pieces_on(1,1,1,1) pieces_on(1,1,2,1) pieces_on(1,1,1,2) pieces_on(1,1,2,2) pieces_on(1,2,5,3) pieces_on(1,2,6,3) pieces_on(1,2,5,4) pieces_on(1,2,6,4) pieces_on(2,1,9,1) pieces_on(2,1,9,2) pieces_on(2,1,9,3) pieces_on(3,1,1,3) pieces_on(3,1,2,3) pieces_on(3,1,1,4) pieces_on(4,1,3,2) pieces_on(4,1,3,3) pieces_on(4,1,2,4) pieces_on(4,1,3,4) pieces_on(4,1,4,4) pieces_on(4,2,6,1) pieces_on(4,2,7,1) pieces_on(4,2,8,1) pieces_on(4,2,7,2) pieces_on(4,2,7,3) pieces_on(4,3,8,2) pieces_on(4,3,8,3) pieces_on(4,3,7,4) pieces_on(4,3,8,4) pieces_on(4,3,9,4) pieces_on(4,4,4,1) pieces_on(4,4,4,2) pieces_on(4,4,5,2) pieces_on(4,4,6,2) pieces_on(4,4,4,3) max_row(9) max_col(4)
+Optimization: 0 36
+Progression : 0 [25;36] (Error: 0.44)
+Progression : 0 [26;36] (Error: 0.384615)
+Progression : 0 [27;36] (Error: 0.333333)
+Progression : 0 [28;36] (Error: 0.285714)
+Progression : 0 [29;36] (Error: 0.241379)
+Progression : 0 [30;36] (Error: 0.2)
+Progression : 0 [31;36] (Error: 0.16129)
+Progression : 0 [32;36] (Error: 0.125)
+Progression : 0 [33;36] (Error: 0.0909091)
+Progression : 0 [34;36] (Error: 0.0588235)
+Progression : 0 [35;36] (Error: 0.0285714)
+OPTIMUM FOUND
+
+Models       : 16
+  Optimum    : yes
+Optimization : 0 36
+Calls        : 1
+Time         : 32.000s (Solving: 31.78s 1st Model: 0.03s Unsat: 30.87s)
+CPU Time     : 124.851s
+Threads      : 4        (Winner: 1)
